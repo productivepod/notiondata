@@ -1,0 +1,26 @@
+{
+  "name": "notiondata",
+  "version": "1.1.0",
+  "description": "Notion API for NodeJS Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "awesome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/productivepod/notiondata.git"
+  },
+  "keywords": [
+    "notion",
+    "Node",
+    "API",
+    "Data",
+    "Fetch"
+  ],
+  "author": "Productive Pod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/productivepod/notiondata/issues"
+  },
+  "homepage": "https://github.com/productivepod/notiondata#readme"
+}
