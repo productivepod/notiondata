@@ -16,5 +16,5 @@ export async function getPublishedPostsNotion(db_id) {
     },
   })
 
-  return posts;
+  return true;
 }
